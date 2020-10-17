@@ -25,7 +25,11 @@
 4. Push to your branch (`git push origin "new_contribution"`)
 5. Return to Github and open the pull request
 
->## For Beginners
+**Important:** Naming Convention:`category/description_of_PR`
+
+<br>
+
+# For Beginners
 
 ## Reference Resources
 
