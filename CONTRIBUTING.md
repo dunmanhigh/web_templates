@@ -48,9 +48,9 @@
 
 3. Download your HTML code, check for mistakes (Open with Notepad++) and proceed to the next section of creating the Pull Request
 
-    ![ins_s2c2.png](img/ins_s2c2.jpeg)
+    ![ins_s2c2.jpeg](img/ins_s2c2.jpeg)
 
-    <sup> *Optional: Add or change the CSS of your HTML file*</sup>
+    <sup>*Optional: Add or change the CSS of your HTML file*</sup>
 
 ### Creating the Pull Request
 
