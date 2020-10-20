@@ -13,13 +13,15 @@
 ## Requirements
 
 - Github account
-- Folder (named appropriately) with HTML and CSS file, as well as a picture of your sketch. (CSS file is optional)
+- Folder (named appropriately) with the following items:
+  - HTML file
+  - A picture of your skecth (if you have used Sketch2Code)
+  - CSS file (optional)
+- Provide a short description of your design, or how it is fitting for the category
 
 # Submission
 
 ## For Beginners
-
----
 
 ## Reference Resources
 
