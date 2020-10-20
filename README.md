@@ -20,6 +20,7 @@ This is a public repository where anyone in the world can help build up website 
 
 - HTML file
 - CSS file (optional)
+- A photo of your sketched design
 
 <br>
 
