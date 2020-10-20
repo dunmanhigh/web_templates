@@ -13,7 +13,7 @@
 ## Requirements
 
 - Github account
-- Folder (named appropriately) with HTML and CSS file. (CSS file is optional)
+- Folder (named appropriately) with HTML and CSS file, as well as a picture of your sketch. (CSS file is optional)
 
 # Submission
 
