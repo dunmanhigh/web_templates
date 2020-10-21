@@ -2,9 +2,9 @@
 
 ## Files included
 
-- HTML file ([food_blog_demo.md](https://github.com/dunmanhigh/web_templates/blob/main/Blog/Demo%20Food%20Blog/food_blog_demo.html))
-- Image of your sketch ([food_blog_demo_sketch.jpg](https://github.com/dunmanhigh/web_templates/blob/main/Blog/Demo%20Food%20Blog/food_blog_demo_sketch.jpg_))
-- Optional: Amended HTML file ([food_blog_demo_amended.md](https://github.com/dunmanhigh/web_templates/blob/main/Blog/Demo%20Food%20Blog/food_blog_demo_amended.html))
+- HTML file ([food_blog_demo.html](https://github.com/dunmanhigh/web_templates/blob/main/Blog/Demo%20Food%20Blog/food_blog_demo.html))
+- Image of your sketch ([food_blog_demo_sketch.jpg](https://github.com/dunmanhigh/web_templates/blob/main/Blog/Demo%20Food%20Blog/food_blog_demo_sketch.jpg))
+- Optional: Amended HTML file ([food_blog_demo_amended.html](https://github.com/dunmanhigh/web_templates/blob/main/Blog/Demo%20Food%20Blog/food_blog_demo_amended.html))
 
 ## Why is Amendment necessary?
 
