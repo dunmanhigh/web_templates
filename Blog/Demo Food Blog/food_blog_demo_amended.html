@@ -1,8 +1,4 @@
-
-
-
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width" />
@@ -12,9 +8,31 @@
 </head>
 <body>
     <div class="container body-content">
-        
-
-
+<!--
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <span class="navbar-brand mb-0 h1">Food Blog</span>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <div class="d-flex justify-content-end">
+                    <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="#categories">Categories</a>
+                    <a class="nav-item nav-link" href="">Contact</a>
+                </div>
+              </div>
+            </div>
+          </nav>
+-->
+<div class="d-flex" style="padding:20px;">
+    <div class="mr-auto p-2">
+        <h2 style="font-size: 30px;">Food Blog</h2>
+    </div>
+    <a class="p-2" href="#" style="text-decoration: none; color: black;">Home</a>
+    <a class="p-2" href="#categories" style="text-decoration: none; color: black;">Categories</a>
+    <a class="p-2" href="#" style="text-decoration: none; color: black;">Contact</a>
+  </div>
 
 <div class="container">
 
@@ -29,6 +47,7 @@
 
                 </div>
                 <div class="col" style="padding-top:10px;">
+                    <h2>Food 1</h2>
 <p class="text-black-50">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
     <br />
@@ -36,6 +55,7 @@
     <br />
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 </p>
+<button class="btn btn-primary">Read more</button>
                 </div>
                 </div>
                 <div class="row justify-content-start" style="padding-top:10px;">
@@ -48,6 +68,7 @@
 
                 </div>
                 <div class="col" style="padding-top:10px;">
+                    <h2>Food 2</h2>
 <p class="text-black-50">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
     <br />
@@ -55,37 +76,40 @@
     <br />
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 </p>
+<button class="btn btn-primary">Read more</button>
                 </div>
                 </div>
-                <div class="row justify-content-start" style="padding-top:10px;">
 
-                <div class="col" style="padding-top:10px;">
-<label>Option 1</label>
+                <br><br>
 
-
-
+                <div id="categories">
+                    <h2 style="padding-bottom: 40px;">Categories</h2>
                 </div>
-                <div class="col" style="padding-top:10px;">
-<button class="btn btn-primary">Option 3</button>
-
-
-                </div>
-                </div>
-                <div class="row justify-content-start" style="padding-top:10px;">
-
-                <div class="col" style="padding-top:10px;">
-<label>Option 4</label>
-
-
-
-                </div>
-                <div class="col" style="padding-top:10px;">
-<button class="btn btn-primary">Option 6</button>
-
-
-                </div>
-                </div>
-                <div class="row justify-content-end" style="padding-top:10px;">
+                <div class="container">
+                    <div class="row">
+                      <div class="col">
+                          <button class="btn btn-tiertiary">Option 1</button>
+                        </div>
+                        <div class="col">
+                            <button class="btn btn-tiertiary">Option 2</button>
+                          </div>
+                        <div class="col">
+                            <button class="btn btn-tiertiary">Option 3</button>
+                        </div>
+                      <div class="w-100"></div>
+                      <br>
+                      <div class="col">
+                        <button class="btn btn-tiertiary">Option 4</button>
+                      </div>
+                      <div class="col">
+                        <button class="btn btn-tiertiary">Option 5</button>
+                      </div>
+                      <div class="col">
+                        <button class="btn btn-tiertiary">Option 6</button>
+                      </div>
+                    </div>
+                  </div>
+                <div class="row justify-content-end" style="padding: 50px 0 90px 0;">
 <button class="btn btn-primary">SEARCH</button>
 
 
